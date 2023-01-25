@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAFA;
+}
+.main{
+    margin-top: 72px;
+    margin-bottom: 72px;
+}
+.hero-image{
+    top: 72px;
+    left: 166px;
+    width: 576px;
+    height: 576px;
+    background: transparent url('img/Ellipse 2.png') 0% 0% no-repeat padding-box;
+    box-shadow: 0px 4px 31px #0000000A;
+    border: 20px solid #FFFFFF;
+    border-radius: 50%;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.login{
+    width: 138px;
+    height: 45px;
+    background-color: #C8242F;
+    border-radius: 23px;
+    font-family: 'Roboto', sans-serif; 
+    color: #FFFFFF;
+}
+.info{
+    font-family: 'Roboto' , sans-serif;
+    font-size: 40px;
+    width: 500px;
+    height: 100px;
+    text-align: left;
+    color: #3E3E3E;
+
+}
+.icon1{
+    top: 106px;
+    left: 906px;
+    width: 272px;
+    height: 58px;
+}
+.p1{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 25px;
+    width: 265px;
+    height: 33px;
+    padding-top: 31.87px;
+    padding-bottom: 23.45px;
+    color: #3E3E3E;
+}
+.username{
+    width: 429px;
+    height: 49px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #ADADAD;
+    border-radius: 5px;
+    margin-bottom: 27px;
+}
+.password{
+    width: 429px;
+    height: 49px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #ADADAD;
+    border-radius: 5px;
+    margin-bottom: 27px;
+}
+.experts{
+    color: #C8242F;
+}
+::placeholder{
+    padding: 14.63px 346.5px 14.37px 14.5px;
+}
+.fp{
+    width: 429px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 23.13px;
+}
+.fp1{
+    padding-top: 15px;
+    color: #ADADAD;
+}
+.register{
+    color: #ADADAD;
+    display: flex;
+}
+.link{
+    color: #C8242F; 
+    text-decoration: none;
+    margin-left: 5px;
+}
