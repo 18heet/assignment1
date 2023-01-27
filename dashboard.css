@@ -6,7 +6,90 @@
     display: flex;
     flex-direction: column;
 }
+.nav1{
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+}
 .logo{
     height: 15px;
     width: 15px;
+    margin: 32px;
+}
+.header-main{
+    display: flex;
+    width: 1560px;
+    height: 80px;
+    border: 1px solid black;
+    align-items: center;
+}
+.search{
+    height: 15.59px;
+    width: 15.59px;
+}
+.div2{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    border: 1px solid red;
+    align-items: center;
+}
+.div4{
+    display: flex;
+    align-items: center;
+}
+.body1{
+    border: 1px solid blue;
+    width: 242px;
+    height: 1279px;
+}
+.main2{
+    display: flex;
+}
+.logo2{
+    display: flex;   
+}
+.sub-image{
+    height: 26px;
+    width: 26px;
+}
+.sub{
+    width: 219px;
+    height: 116px;  
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sale-graph{
+    width: 802px;
+    height: 400px;  
+    padding: 23.52px 47.5px 30px 50px; 
+    padding-bottom: 29px;
+}
+.sale-header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid red;
+    margin-bottom: 29px;
+    
+}
+.data-graph{
+    width: 729.5px;
+    height: 371.1px;
+}
+.sub2{
+    display: flex;
+}
+.invoice{
+    display: flex;
+    justify-content:space-between;
+}
+.sub-sale{
+    margin-right: 60px;
+}
+.yearly{
+    text-decoration: underline;
+    text-underline-offset: 5px;
 }
